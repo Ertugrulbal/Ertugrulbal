@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ertugrulbal
-- 👀 I’m interested in software technologies and
-- 🌱 I’m currently working on Golang, Python, Python/Django, Java, Spring Boot and React.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software/blockchain technologies and
+- 🌱 I’m currently working on Golang, Node.js,Ethereum VM, Solidity and their tools. ...
 - 📫 You can reach me via my e-mail adress: ertgrl.bal@gmail.com and my phone number +90 5457392075
 
 <!---
